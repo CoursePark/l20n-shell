@@ -13,7 +13,11 @@
   "keywords": [
     "l20n"
   ],
-  "author": "coursepark",
+  "contributors": [
+      {
+          "name": "Jared Abbott"
+      }
+  ],
   "license": "Apache",
   "bugs": {
     "url": "https://github.com/CoursePark/l20n-shell/issues"
