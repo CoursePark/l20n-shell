@@ -1,0 +1,22 @@
+{
+  "name": "coursepark-l20n-shell",
+  "version": "1.0.2",
+  "description": "This repository contains the build of l20n.js with shell bindings.",
+  "main": "l20n.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoursePark/l20n-shell.git"
+  },
+  "keywords": [
+    "l20n"
+  ],
+  "author": "coursepark",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/CoursePark/l20n-shell/issues"
+  },
+  "homepage": "https://github.com/CoursePark/l20n-shell#readme"
+}
