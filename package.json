@@ -1,5 +1,5 @@
 {
-  "name": "coursepark-l20n-shell",
+  "name": "bluedrop-l20n-shell",
   "version": "1.0.2",
   "description": "This repository contains the build of l20n.js with shell bindings.",
   "main": "l20n.js",
