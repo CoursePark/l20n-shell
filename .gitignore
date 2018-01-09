@@ -1,0 +1,10 @@
+# Blacklist Every File
+*
+
+# Whitelist Top-level Files
+!.gitignore 
+!README.md
+!LICENSE
+!NOTICE
+!package.json
+!l20n.js
