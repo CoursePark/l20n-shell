@@ -14,9 +14,9 @@
     "l20n"
   ],
   "contributors": [
-      {
-          "name": "Jared Abbott"
-      }
+    {
+      "name": "Jared Abbott"
+    }
   ],
   "license": "Apache",
   "bugs": {
@@ -24,4 +24,3 @@
   },
   "homepage": "https://github.com/CoursePark/l20n-shell#readme"
 }
-
